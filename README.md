@@ -1,4 +1,5 @@
 # World Population Data Analysis
+The World Population Data Analysis project examines global demographic trends using a comprehensive dataset. It identifies the most populous and densely populated countries, explores regions with negative population growth, and compares fertility rates across continents. The project also assesses urbanization impacts, rural vs. urban dynamics, and the challenges of aging populations, providing insights into global demographic changes and their socioeconomic implications.
 ### 1. Comprehensive Data Retrieval
 **Problem Statement**: Explore the entire dataset to establish a baseline understanding of global population metrics, including variations in density, fertility rates, and age demographics.
 ```sql
